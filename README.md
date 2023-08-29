@@ -1,4 +1,2 @@
-### Hi there 👋 Enjoy some data, courtesy of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats). Don't be surprised if it's heavily skewed by build files and libraries!
-
-![Commit Count](https://github-readme-stats.vercel.app/api?username=ecc521&theme=dark&show_icons=true&count_private=true&include_all_commits=true?hide_credits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ecc521&layout=compact&langs_count=10?hide_credits=true&theme=highcontrast)
+### Hi there - it's Tucker!
+Feel free to explore my repositories - I manage some open source packages (ecc521/capacitor-zoom-android), and contribute to others including capacitor-community/text-to-speech and capacitor-community/admob. 
