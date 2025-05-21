@@ -1,5 +1,5 @@
 ### Hi there - it's Tucker!
-I'm a freshman @ Duke studying Electrical and Computer Engineering. I'm open to summer internships at the moment, so feel free to send me a message!
+I'm a sophomore @ Duke studying Electrical and Computer Engineering. I'm open to summer internships at the moment, so feel free to send me a message!
 
 Many of my projects are publically available on this GitHub - a few, including Mahjong 4 Friends, were removed once I implemented monetization. 
 
